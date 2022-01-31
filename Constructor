@@ -6,3 +6,4 @@ The constructor should not be declered with any return type.
 Whenever a constructor is invoked, The body of constructor get executed.
 A constructor is developed to initialize object variables at the time of object creation.
 Every java class should have a constructor, if we don't develop a constructor the compiler write a constructor as default constructor.
+-----------------------------------------------------------------
