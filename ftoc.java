@@ -1,4 +1,4 @@
-// Farenite to celcius
+// Write a program to covert the temperature value .
 class ftoc
 	{
 		public static void main(String[] args)
