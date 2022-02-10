@@ -1,5 +1,5 @@
 // addition multiplication division substraction mod
-class math
+class ArithmeticOperation
 {
 	public static void main(String[] args)
 	{
