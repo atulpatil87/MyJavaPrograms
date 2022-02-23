@@ -1,5 +1,5 @@
 package kunal;
-// Find The Given Number Is Odd or Even
+// Find The Given Number Is Odd or Even.
 public class FindOddEven
 {
     public static void main(String[] args)
