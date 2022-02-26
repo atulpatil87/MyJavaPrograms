@@ -1,4 +1,4 @@
-//   calcuate the area of circle
+//   calcuate the area of circle.
 class circle
 {
 	public static void main(String[] args)
