@@ -1,6 +1,7 @@
 package com.javapro;
 
-public class Assigment {
+public class Assigment 
+{
     public static int reverseNumber()
     {
         System.out.println("this is the method if reverse Number");
