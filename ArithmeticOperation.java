@@ -12,4 +12,5 @@ class ArithmeticOperation
 		int mod = a%b;
 		System.out.print("Addition = "+add+"\nSubtraction = "+sub+"\nDivision = "+div+"\nMultiplication = "+mul+"\nRemainder = "+mod);
 	}
+	
 }
