@@ -5,7 +5,7 @@ class ftoc
 		{
 			float F= 302.66f;
 			//float C= (9/5)*+32;
-			float C = F - 32f * (5/9f);
+			float C = F - 32f * (5/9f); //formulas
 			System.out.print("\nThe Tempreture Is "+F+" Farenite And "+C+" Celcius");
 		}
 	}
