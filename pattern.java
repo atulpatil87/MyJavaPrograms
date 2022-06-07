@@ -1,4 +1,4 @@
-// write a program to prit the pattern..
+// write a program to prit the pattern...
 class pattern 
 { 	
 	public static void main(String[] args)
