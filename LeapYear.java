@@ -6,7 +6,7 @@ public class LeapYear {
         System.out.println("Enter The Year");
         Scanner in = new Scanner(System.in);
         year = in.nextInt();
-        if( (year % 4 == 0))
+        if( (year % 4 == 0)) //if given year is divided by 4 then answer = 0
         {
             System.out.println("THIS IS LEAP YEAR");
         }
