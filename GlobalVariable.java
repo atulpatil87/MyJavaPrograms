@@ -11,7 +11,7 @@ public class GlobalVariable
     static double g;
     static boolean h;
 
- public static void main(String[] args)
+ public static void main(String[] args)  //main method
     {
         System.out.println("a="+a);
         System.out.println("b="+b);
