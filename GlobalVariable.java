@@ -2,7 +2,7 @@ package kunal;
 
 public class GlobalVariable
 {
-    static byte a;
+    static byte a;   // Global verialbles
     static char b;
     static short c;
     static int d;
