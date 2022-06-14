@@ -5,7 +5,7 @@ class ArithmeticOperation
 	{
 		int a = 50;
 		int b = 30;
-		int add = a+b;
+		int add = a+b; // For Multiplication 
 		int sub = a-b;
 		float div = a/b;
 		int mul = a*b;
