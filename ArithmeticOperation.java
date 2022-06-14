@@ -1,7 +1,7 @@
 // addition multiplication division substraction mod
 class ArithmeticOperation
 {
-	public static void main(String[] args)
+	public static void main(String[] args)  // This is main method.
 	{
 		int a = 50;
 		int b = 30;
