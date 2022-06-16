@@ -17,8 +17,6 @@ public class SwapTheNumber {
         c=temp;
         System.out.println("***************************");
         System.out.println(+a+"\n"+b+"\n"+c);
-
-
     }
 
     public static void main(String[] args)
