@@ -23,6 +23,5 @@ public class SwapTheNumber {
     {
         Scanner in = new Scanner(System.in);
         new SwapTheNumber(10,20,30);
-
     }
 }
