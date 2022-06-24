@@ -1,4 +1,4 @@
-// calculate the are of rectangle
+// calculate the are of rectangle.
 class rectangle
 	{
 	public static void main(String[] args)
