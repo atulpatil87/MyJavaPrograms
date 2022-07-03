@@ -30,5 +30,3 @@ My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, 
   Automation
   
 </p>
-
--->
