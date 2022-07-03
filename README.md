@@ -29,4 +29,4 @@ My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, 
   <br>
   Automation  
 </p>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="center" width="45px"> 
