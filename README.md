@@ -11,8 +11,6 @@
 My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, currently working at MiM-essay.
 
 
-
-
 <h2 align="center"> 🔧 Skills & Tools: </h2>
 
 <p align="center">
