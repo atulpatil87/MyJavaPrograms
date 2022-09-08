@@ -4,7 +4,7 @@
   <img align="left" alt="Atul Patil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/atul-patil-6202676b/">
-  <img align="left" alt="Atul LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />
+  <img align="left" alt="Atul LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true"/>
 </a>
 
 
