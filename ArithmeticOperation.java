@@ -11,6 +11,5 @@ class ArithmeticOperation
 		int mul = a*b; // For Multiplication 
 		int mod = a%b; // For Mod
 		System.out.print("Addition = "+add+"\nSubtraction = "+sub+"\nDivision = "+div+"\nMultiplication = "+mul+"\nRemainder = "+mod);
-	}
-	
+	}	
 }
