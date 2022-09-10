@@ -10,7 +10,8 @@ public class LeapYear {
         {
             System.out.println("THIS IS LEAP YEAR");
         }
-        else {
+        else 
+        {
             System.out.println("THIS IS NOT LEAP YEAR");
         }
     }
