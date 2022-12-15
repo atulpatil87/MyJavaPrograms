@@ -12,7 +12,7 @@ public class Binary_Search {
         int result=Search1(arr , target); // function called and stored in result
         System.out.println(result);
     }
-    public static int Search1(int arr[], int target) //fuction
+    public static int Search1(int arr[], int target) //fuction to find the target element in given array.
     {
         int start= 0;
         int end= arr.length -1;
