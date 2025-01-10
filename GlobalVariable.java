@@ -21,8 +21,5 @@ public class GlobalVariable
         System.out.println("f="+f);
         System.out.println("g="+g);
         System.out.println("h="+h);
-
-
-
     }
 }
